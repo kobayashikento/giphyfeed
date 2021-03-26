@@ -18,4 +18,4 @@ Conclusion: Need to spend some time learning Ember.
 **2. Preparing/Learning**
 <br>Learning Ember, key notes and comments will be left below for my future reference. 
 <br>While learning Ember, also consider the best practices for scaleable products. Which is to break components to their most elementary elements as much as possible.
-<br>**How ember handles promises** "In a route's model() method, you return whatever data you want to make available to the template. If you need to fetch data asynchronously, the model() method supports any library that uses JavaScript Promises."
+<br><br>**How ember handles promises** - "In a route's model() method, you return whatever data you want to make available to the template. If you need to fetch data asynchronously, the model() method supports any library that uses JavaScript Promises."
