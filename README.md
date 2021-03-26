@@ -21,4 +21,5 @@ Conclusion: Need to spend some time learning Ember.
 <br><br>**Noteable CLI commands** 
 1. ember generate route ____   
 2. ember generate component ____
+
 <br><br>**How ember handles promises** - "In a route's model() method, you return whatever data you want to make available to the template. If you need to fetch data asynchronously, the model() method supports any library that uses JavaScript Promises."
