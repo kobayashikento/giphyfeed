@@ -1,4 +1,4 @@
-Breaking the project into steps.
+**Breaking the project into steps.**
 1. Evaluation
 2. Preparing/Learning
 3. Planning/Designing
@@ -16,4 +16,4 @@ Breaking the project into steps.
 Conclusion: Need to spend some time learning Ember.
 
 **2. Preparing/Learning**
-Learning Ember, key notes and comments will be left below for my future reference. 
+<br>Learning Ember, key notes and comments will be left below for my future reference. 
