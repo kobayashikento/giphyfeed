@@ -17,3 +17,4 @@ Conclusion: Need to spend some time learning Ember.
 
 **2. Preparing/Learning**
 <br>Learning Ember, key notes and comments will be left below for my future reference. 
+<br>While learning Ember, also consider the best practices for scaleable products. Which is to break components to their most elementary elements as much as possible.
