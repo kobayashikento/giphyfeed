@@ -1,0 +1,9 @@
+<div class="masonry-with-columns">
+    {{#each @data as |gifData|}}
+    <div class="item-container">
+        <Item @id={{gifData.id}} @title={{gifData.title}} @url={{gifData.url}}/>
+        <Details @url={{gifData.url}} @title={{gifData.title}} @avatar_name={{gifData.user.display_name}}
+            @avatar_url={{gifData.user.avatar_url}} />
+    </div>
+    {{/each}}
+</div>

@@ -1,0 +1,11 @@
+{{page-title @model.settings.data.attributes.title}}
+
+<div class="content-container">
+    <div class="content-span">
+        <b>{{ @model.settings.data.attributes.type}}</b>
+        <span> images from GIPHY, showing</span>
+        <b> {{@model.settings.data.attributes.limit}} </b>
+        <span>images</span>
+    </div>
+    <Grid @data={{@model.data}} />
+</div>

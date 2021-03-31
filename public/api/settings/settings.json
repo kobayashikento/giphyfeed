@@ -1,0 +1,12 @@
+{
+    "data": {
+        "type": "settings",
+        "id": "site-settings",
+        "attributes": {
+            "title": "GiphyFeed with Ember",
+            "type": "trending",
+            "limit": 50,
+            "rating": "g"
+        }
+    }
+}
