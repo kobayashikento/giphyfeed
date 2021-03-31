@@ -38,17 +38,18 @@ By generating a route using the cli, ember craetes a file in the "/templates" an
 
 **The Generate Component command**
 This command generates a file in the components folder ( hbs file ) which is then passed into the file created in the template. A good practice would probably be having multiple components which are then imported as components in the template file. You would pass the model that from the templates file to the component file which was originally passed from the routes files. 
-<pre> 
+
   {{yield}} takes in child props passed from the parent 
   The {{outlet}} keyword denotes the place where our site's pages should be rendered
     example use: 
+ 
        <div class="container">
          <NavBar />
          <div class="body">
           {{outlet}}
          </div>
        </div>
-</pre>
+
 
 **Glimmer components**
 this basically acts as React useStates and listens to state changes. This also allows for component mount, unmount, and update listeners. 
